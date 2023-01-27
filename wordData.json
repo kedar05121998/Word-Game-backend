@@ -18,6 +18,11 @@
 	{ "id": 17, "word": "discover" },
 	{ "id": 18, "word": "highway" },
 	{ "id": 19, "word": "ride" },
-	{ "id": 20, "word": "pride" }
+	{ "id": 20, "word": "investment" },
+    { "id": 21, "word": "mutual" },
+    { "id": 22, "word": "systamatic" },
+    { "id": 23, "word": "function" },
+    { "id": 24, "word": "primary" },
+    { "id": 25, "word": "secondary" }
 
 ]
